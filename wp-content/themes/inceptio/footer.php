@@ -20,7 +20,7 @@
     <div id="footer-bottom">
         <div class="container clearfix">
             <div class="one-half">
-                <p><?php echo inc_get_footer_copyright(); ?></p>
+                <p><?php echo inc_get_footer_copyright(); ?> Created by <a href="http://www.claymoredesigns.com/" target="_blank">Claymoredesign</a>.</p>
             </div>
 
             <div class="one-half column-last">
