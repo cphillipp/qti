@@ -2494,3 +2494,6 @@ input[type="submit"] {
 .wp-caption-text{}
 .gallery-caption {}
 .bypostauthor{}
+
+/* CUSTOM */
+#logo 		{margin-top:9px;}
