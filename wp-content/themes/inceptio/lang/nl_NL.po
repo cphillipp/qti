@@ -1,0 +1,2168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inceptio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-18 14:12+0100\n"
+"PO-Revision-Date: 2013-05-18 14:12+0100\n"
+"Last-Translator: ixtendo <info@ixtendo.com>\n"
+"Language-Team: Ixtendo <info@ixtendo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:9
+msgid "The page requested was not found."
+msgstr ""
+
+#: ../404.php:10
+msgid "It seems that the page you were looking for doesn't exist."
+msgstr ""
+
+#: ../404.php:11
+msgid "Perhaps one of the links below can help."
+msgstr ""
+
+#: ../archive.php:8
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:10
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:12
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:14
+msgid "Blog Archives"
+msgstr ""
+
+#: ../archive.php:40
+#: ../author.php:32
+#: ../category.php:32
+msgid "No posts found"
+msgstr ""
+
+#: ../author.php:7
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../breadcrumb.php:16
+msgid "Home"
+msgstr ""
+
+#: ../category.php:7
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:5
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:22
+msgid "&laquo; Newer Comments"
+msgstr ""
+
+#: ../comments.php:23
+msgid "Older Comments &raquo;"
+msgstr ""
+
+#: ../content-contact.php:3
+msgid "Contact Us"
+msgstr ""
+
+#: ../content-contact.php:4
+msgid "We would be glad to have feedback from you. Drop us a line, whether it is a comment, a question, a work proposition or just a hello. You can use either the form below or the contact details on the right."
+msgstr ""
+
+#: ../content-contact.php:6
+msgid "Your message has been successfully sent. We will get back to you as soon as possible."
+msgstr ""
+
+#: ../content-contact.php:11
+msgid "Your message couldn't be sent because a server error occurred. Please try again."
+msgstr ""
+
+#: ../content-contact.php:16
+msgid "Name:"
+msgstr ""
+
+#: ../content-contact.php:20
+msgid "Email:"
+msgstr ""
+
+#: ../content-contact.php:24
+msgid "Website:"
+msgstr ""
+
+#: ../content-contact.php:28
+msgid "Subject:"
+msgstr ""
+
+#: ../content-contact.php:32
+msgid "Message:"
+msgstr ""
+
+#: ../content-contact.php:41
+msgid "Send Message"
+msgstr ""
+
+#: ../content-contact.php:44
+msgid "Required fields"
+msgstr ""
+
+#: ../content-single.php:23
+#: ../content.php:34
+msgid "No Comments"
+msgstr ""
+
+#: ../content-single.php:23
+#: ../content.php:34
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-single.php:23
+#: ../content.php:34
+msgid "% Comments"
+msgstr ""
+
+#: ../content-single.php:37
+msgid "Tags"
+msgstr ""
+
+#: ../content-single.php:94
+msgid "About the Author"
+msgstr ""
+
+#: ../footer-social.php:4
+msgid "Twitter"
+msgstr ""
+
+#: ../footer-social.php:7
+msgid "Facebook"
+msgstr ""
+
+#: ../footer-social.php:10
+msgid "Google+"
+msgstr ""
+
+#: ../footer-social.php:13
+msgid "LinkedIn"
+msgstr ""
+
+#: ../footer-social.php:16
+msgid "Vimeo"
+msgstr ""
+
+#: ../footer-social.php:19
+msgid "YouTube"
+msgstr ""
+
+#: ../footer-social.php:22
+msgid "Skype"
+msgstr ""
+
+#: ../footer-social.php:25
+msgid "Digg"
+msgstr ""
+
+#: ../footer-social.php:28
+msgid "Delicious"
+msgstr ""
+
+#: ../footer-social.php:31
+msgid "Tumbler"
+msgstr ""
+
+#: ../footer-social.php:34
+msgid "Dribbble"
+msgstr ""
+
+#: ../footer-social.php:37
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../functions.php:171
+#: ../functions.php:172
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions.php:502
+msgid "The default sidebar"
+msgstr ""
+
+#: ../functions.php:512
+msgid "The footer sidebar"
+msgstr ""
+
+#: ../functions.php:608
+msgid "Categories"
+msgstr ""
+
+#: ../header.php:61
+#: ../header.php:62
+msgid "Search"
+msgstr ""
+
+#: ../index.php:8
+msgid "Blog"
+msgstr ""
+
+#: ../language-switcher.php:20
+msgid "Change Language"
+msgstr ""
+
+#: ../page-title.php:7
+msgid "404 Error Page"
+msgstr ""
+
+#: ../page-title.php:9
+msgid "Search Results"
+msgstr ""
+
+#: ../portfolio-footer.php:6
+msgid "Related Projects"
+msgstr ""
+
+#: ../post-sharing-sharethis.php:3
+#: ../post-sharing.php:4
+msgid "Share This Story"
+msgstr ""
+
+#: ../posts-navigation.php:12
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: ../posts-navigation.php:13
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: ../search.php:10
+msgid "results found for"
+msgstr ""
+
+#: ../search.php:28
+msgid "Sorry, no posts matched your criteria. Please try and search again."
+msgstr ""
+
+#: ../sidebar-portfolio.php:7
+msgid "Project Details"
+msgstr ""
+
+#: ../sidebar-portfolio.php:10
+msgid "Customer"
+msgstr ""
+
+#: ../sidebar-portfolio.php:21
+msgid "Year"
+msgstr ""
+
+#: ../sidebar-portfolio.php:26
+msgid "Technology"
+msgstr ""
+
+#: ../sidebar-portfolio.php:40
+msgid "Visit Website"
+msgstr ""
+
+#: ../single.php:23
+msgid "Related Posts"
+msgstr ""
+
+#: ../tag.php:7
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../template-portfolio-default.php:38
+#: ../template-portfolio-fullwidth.php:38
+#: ../template-portfolio-rsidebar2.php:47
+msgid "Project Description"
+msgstr ""
+
+#: ../api/comments-util.php:7
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../api/comments-util.php:8
+msgid "We would be glad to get your feedback. Take a moment to comment and tell us what you think."
+msgstr ""
+
+#: ../api/comments-util.php:10
+msgid "Message"
+msgstr ""
+
+#: ../api/comments-util.php:23
+msgid "Name"
+msgstr ""
+
+#: ../api/comments-util.php:24
+msgid "Email"
+msgstr ""
+
+#: ../api/comments-util.php:25
+msgid "Website"
+msgstr ""
+
+#: ../api/comments-util.php:41
+msgid "Author"
+msgstr ""
+
+#: ../api/comments-util.php:44
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../api/comments-util.php:53
+msgid "Edit"
+msgstr ""
+
+#: ../api/comments-util.php:62
+msgid "(Your comment is awaiting moderation.)"
+msgstr ""
+
+#: ../api/comments-util.php:64
+msgid "Reply"
+msgstr ""
+
+#: ../api/form-processor.php:28
+msgid "The reCAPTCHA code wasn't entered correctly."
+msgstr ""
+
+#: ../api/form-processor.php:75
+msgid "Your email address couldn't be subscribed because a server error occurred."
+msgstr ""
+
+#: ../api/form-processor.php:80
+msgid "The MailChimp Plugin is not enabled."
+msgstr ""
+
+#: ../api/theme-options.php:64
+msgid "Theme Options"
+msgstr ""
+
+#: ../api/theme-options.php:159
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:121
+msgid "Save Changes"
+msgstr ""
+
+#: ../api/theme-options.php:160
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../api/util.php:806
+msgid "First"
+msgstr ""
+
+#: ../api/util.php:807
+msgid "Last"
+msgstr ""
+
+#: ../api/util.php:808
+msgid "Page"
+msgstr ""
+
+#: ../api/util.php:809
+msgid "of"
+msgstr ""
+
+#: ../api/util.php:818
+msgid "&laquo; Previous"
+msgstr ""
+
+#: ../api/util.php:819
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:22
+msgid "The customer details"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:28
+msgid "The year of the project creation"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:31
+msgid "Technologies Used"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:34
+msgid "The technologies used in this project (one per line)"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:37
+msgid "Project URL"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:40
+msgid "The project page URL. Optional, after the url you can add the target link separated by |. Example: <strong>http://www.ixtendo.com|blank</strong>"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:47
+msgid "Page Attributes"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:60
+msgid "Content Featured Settings"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:67
+msgid "Content Featured"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:77
+msgid "Footer Featured Settings"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:84
+msgid "Title"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:89
+msgid "Body"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:94
+msgid "URL"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:99
+msgid "Icon Source"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:104
+msgid "Override Entire Content"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:114
+msgid "SEO Settings"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:121
+msgid "Meta description"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:126
+msgid "Meta keywords"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:131
+msgid "Meta application-name"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:136
+msgid "Meta generator"
+msgstr ""
+
+#: ../api/admin/admin-page-config.php:145
+msgid "Sidebar &amp; Header Attributes"
+msgstr ""
+
+#: ../api/admin/page/Page_Customizer.php:20
+msgid "Sidebar"
+msgstr ""
+
+#: ../api/admin/page/Page_Customizer.php:22
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../api/admin/page/Page_Customizer.php:33
+msgid "Title Bar Visibility"
+msgstr ""
+
+#: ../api/admin/page/Page_Customizer.php:35
+msgid "Visible"
+msgstr ""
+
+#: ../api/admin/page/Page_Customizer.php:36
+msgid "Hidden"
+msgstr ""
+
+#: ../api/admin/page/Portfolio_Page_Customizer.php:37
+msgid "Right Sidebar - Style 1"
+msgstr ""
+
+#: ../api/admin/page/Portfolio_Page_Customizer.php:38
+msgid "Right Sidebar - Style 2"
+msgstr ""
+
+#: ../api/admin/page/Portfolio_Page_Customizer.php:39
+msgid "Full Width"
+msgstr ""
+
+#: ../api/admin/page/Portfolio_Page_Customizer.php:44
+#: ../api/admin/page/Portfolio_Page_Customizer.php:45
+msgid "Template"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:13
+msgid "Slider updated"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:37
+msgid "Slider Manager"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:37
+msgid "Add New Slider"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:37
+msgid "Add New"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:49
+msgid "Flex Slider"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:68
+msgid "Edit Slider"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:68
+msgid "Add Image Slide"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:84
+msgid "Designer"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:99
+msgid "No Image Available"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:106
+msgid "Delete Slide"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:108
+msgid "Edit Meta"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:115
+msgid "Settings"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:166
+msgid "Animation"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:168
+msgid "Fade"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:169
+msgid "Slide"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:173
+msgid "Animation speed"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:189
+msgid "Slideshow"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:193
+msgid "Slideshow speed"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:201
+msgid "Pause on hover"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:212
+msgid "Slider Title"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:220
+msgid "Add Slider"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:232
+msgid "The slider title must not be empty"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:283
+msgid "The slider ID must not be empty"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:335
+msgid "Image ID"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:339
+msgid "Image Link"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:343
+msgid "Caption Title"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:347
+msgid "Caption Content"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:351
+msgid "Save"
+msgstr ""
+
+#: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:352
+msgid "Cancel"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:23
+msgid "Google Font URL or the Font-Family name"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:26
+msgid "An example of URL font is"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:27
+msgid "The google fonts can be selected from here"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:28
+msgid "An example of Font-Family can be: \"Times New Roman\" or \"Georgia\""
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:34
+msgid "Add Font"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:46
+msgid "The font URL must not be empty!"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:51
+msgid "This font already exists as a default one."
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:55
+msgid "This font already exists."
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:72
+msgid "The font id must not be empty!"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:108
+msgid "Font Manager"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:108
+msgid "Add New Font"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:123
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:132
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:105
+msgid "ID"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:124
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:133
+msgid "Font Name"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:125
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:134
+msgid "Font URL"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:126
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:135
+msgid "Preview"
+msgstr ""
+
+#: ../api/plugin/Inc_Font_Manager_Plugin.php:162
+msgid "Theme Fonts"
+msgstr ""
+
+#: ../api/plugin/Inc_Help_Manager_Plugin.php:27
+msgid "Documentation"
+msgstr ""
+
+#: ../api/plugin/Inc_Import_Manager_Plugin.php:19
+#: ../api/plugin/Inc_Import_Manager_Plugin.php:35
+#: ../api/plugin/Inc_Import_Manager_Plugin.php:62
+msgid "Import Demo"
+msgstr ""
+
+#: ../api/plugin/Inc_Import_Manager_Plugin.php:45
+msgid "Site Address (URL)"
+msgstr ""
+
+#: ../api/plugin/Inc_Import_Manager_Plugin.php:49
+msgid "E-mail Address"
+msgstr ""
+
+#: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:37
+msgid "Sidebars"
+msgstr ""
+
+#: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:54
+msgid "Description"
+msgstr ""
+
+#: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:62
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:74
+msgid "The sidebar name not be empty!"
+msgstr ""
+
+#: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:77
+msgid "The sidebar description not be empty!"
+msgstr ""
+
+#: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:84
+msgid "A sidebar with the same name already exists."
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:109
+msgid "Type"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:111
+msgid "Simple"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:112
+msgid "Speech Bubble"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:116
+msgid "Author Name"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:120
+msgid "Author Gender"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:122
+msgid "Unknown"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:123
+msgid "Male"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:124
+msgid "Female"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:128
+msgid "Author Profession"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:132
+msgid "Company"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:136
+#: ../api/shortcode/Inc_Computer_Code_Shortcode.php:27
+msgid "Content"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:140
+msgid "Insert Blockquote"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:150
+#: ../api/shortcode/Inc_Button_Shortcode.php:103
+#: ../api/shortcode/Inc_Clients_Shortcode.php:81
+msgid "Elements"
+msgstr ""
+
+#: ../api/shortcode/Inc_Blockquote_Shortcode.php:155
+msgid "Blockquote (Testimonial)"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:65
+msgid "Text"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:69
+msgid "Bg Color"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:78
+msgid "Size"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:80
+msgid "Normal Button"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:81
+msgid "Large Button"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:85
+msgid "Target Window"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:87
+msgid "Same Window"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:88
+msgid "New Window"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:89
+msgid "Parent Window"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:90
+msgid "Full Body of the Window"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:94
+msgid "Insert Button"
+msgstr ""
+
+#: ../api/shortcode/Inc_Button_Shortcode.php:108
+msgid "Button"
+msgstr ""
+
+#: ../api/shortcode/Inc_Clients_Shortcode.php:72
+msgid "Insert Clients"
+msgstr ""
+
+#: ../api/shortcode/Inc_Clients_Shortcode.php:86
+msgid "Clients"
+msgstr ""
+
+#: ../api/shortcode/Inc_Computer_Code_Shortcode.php:31
+msgid "Insert Computer Code"
+msgstr ""
+
+#: ../api/shortcode/Inc_Computer_Code_Shortcode.php:41
+msgid "Typography"
+msgstr ""
+
+#: ../api/shortcode/Inc_Computer_Code_Shortcode.php:46
+msgid "Computer Code"
+msgstr ""
+
+#: ../api/shortcode/Inc_Container_Shortcode.php:73
+#: ../api/shortcode/Inc_List_Shortcode.php:20
+#: ../api/shortcode/Inc_List_Shortcode.php:33
+msgid "Style"
+msgstr ""
+
+#: ../api/shortcode/Inc_Container_Shortcode.php:76
+msgid "Centered"
+msgstr ""
+
+#: ../api/shortcode/Inc_Container_Shortcode.php:84
+msgid "Title HTML Tag"
+msgstr ""
+
+#: ../api/shortcode/Inc_Container_Shortcode.php:96
+msgid "Insert Container"
+msgstr ""
+
+#: ../api/shortcode/Inc_Container_Shortcode.php:105
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:90
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:122
+msgid "Layout"
+msgstr ""
+
+#: ../api/shortcode/Inc_Container_Shortcode.php:110
+msgid "Container / Wrapper"
+msgstr ""
+
+#: ../api/shortcode/Inc_Divider_Shortcode.php:36
+msgid "Double"
+msgstr ""
+
+#: ../api/shortcode/Inc_Divider_Shortcode.php:40
+msgid "Insert Divider"
+msgstr ""
+
+#: ../api/shortcode/Inc_Divider_Shortcode.php:54
+msgid "Divider"
+msgstr ""
+
+#: ../api/shortcode/Inc_Dropcap_Shortcode.php:42
+msgid "With Background"
+msgstr ""
+
+#: ../api/shortcode/Inc_Dropcap_Shortcode.php:46
+msgid "Content Wrapper"
+msgstr ""
+
+#: ../api/shortcode/Inc_Dropcap_Shortcode.php:48
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:241
+#: ../api/shortcode/Inc_Image_Shortcode.php:184
+msgid "None"
+msgstr ""
+
+#: ../api/shortcode/Inc_Dropcap_Shortcode.php:49
+msgid "Paragraph"
+msgstr ""
+
+#: ../api/shortcode/Inc_Dropcap_Shortcode.php:50
+msgid "Div"
+msgstr ""
+
+#: ../api/shortcode/Inc_Dropcap_Shortcode.php:51
+msgid "Span"
+msgstr ""
+
+#: ../api/shortcode/Inc_Dropcap_Shortcode.php:59
+msgid "Insert Dropcap"
+msgstr ""
+
+#: ../api/shortcode/Inc_Dropcap_Shortcode.php:74
+msgid "Dropcap"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:51
+msgid "Submit"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:52
+msgid "The form has been successfully submitted"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:53
+msgid "The form couldn't be submitted because a server error occurred. Please try again later."
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:161
+msgid "Example Type"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:163
+msgid "Contact Form Example"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:164
+msgid "Basic Form Example"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:172
+msgid "Action"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:177
+msgid "Add Captcha"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:180
+msgid "Submit Label"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:184
+msgid "Success Message"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:188
+msgid "Error Message"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:193
+msgid "Display Legend"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:198
+msgid "Insert Form"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:208
+msgid "Others"
+msgstr ""
+
+#: ../api/shortcode/Inc_Form_Shortcode.php:213
+msgid "Form"
+msgstr ""
+
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:92
+msgid "Two Columns"
+msgstr ""
+
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:93
+msgid "Tree Columns"
+msgstr ""
+
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:94
+msgid "Four Columns"
+msgstr ""
+
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:95
+msgid "One Third - Two Thirds"
+msgstr ""
+
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:96
+msgid "Two Thirds - One Third"
+msgstr ""
+
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:97
+msgid "One Fourth - Three Fourths"
+msgstr ""
+
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:98
+msgid "Three Fourths - One Fourth"
+msgstr ""
+
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:102
+msgid "HTML Tag"
+msgstr ""
+
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:109
+msgid "Column Separator"
+msgstr ""
+
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:113
+msgid "Insert Grid Columns"
+msgstr ""
+
+#: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:127
+msgid "Grid Columns"
+msgstr ""
+
+#: ../api/shortcode/Inc_Highlight_Shortcode.php:33
+msgid "Colored"
+msgstr ""
+
+#: ../api/shortcode/Inc_Highlight_Shortcode.php:34
+msgid "Black"
+msgstr ""
+
+#: ../api/shortcode/Inc_Highlight_Shortcode.php:42
+msgid "Insert Highlight Text"
+msgstr ""
+
+#: ../api/shortcode/Inc_Highlight_Shortcode.php:57
+msgid "Highlight Text"
+msgstr ""
+
+#: ../api/shortcode/Inc_Horizontal_Space_Shortocode.php:31
+msgid "Insert Space"
+msgstr ""
+
+#: ../api/shortcode/Inc_Horizontal_Space_Shortocode.php:46
+msgid "Horizontal Space"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:41
+#: ../api/shortcode/Inc_News_Shortcode.php:69
+msgid "Learn More"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:116
+msgid "Icon Size"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:120
+msgid "Icon Position"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:122
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:242
+#: ../api/shortcode/Inc_Image_Shortcode.php:185
+msgid "Left"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:123
+msgid "Top"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:127
+msgid "Highlighted Text"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:131
+msgid "Display Learn More Button"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:133
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:450
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:455
+msgid "Display"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:134
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:451
+msgid "Hide"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:138
+msgid "Learn More Text"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:146
+msgid "Insert Icon Box"
+msgstr ""
+
+#: ../api/shortcode/Inc_Iconbox_Shortcode.php:161
+msgid "Icon Box"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:201
+msgid "Gallery Name"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:205
+#: ../api/shortcode/Inc_Image_Shortcode.php:148
+msgid "Image Size"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:207
+#: ../api/shortcode/Inc_Image_Shortcode.php:150
+msgid "Original Size"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:208
+#: ../api/shortcode/Inc_Image_Shortcode.php:151
+msgid "Thumbnail Size (150 x 150)"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:209
+#: ../api/shortcode/Inc_Image_Shortcode.php:152
+msgid "Small Size (220 x 140)"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:210
+#: ../api/shortcode/Inc_Image_Shortcode.php:153
+msgid "Medium Size (300 x 300)"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:211
+#: ../api/shortcode/Inc_Image_Shortcode.php:154
+msgid "Large Size (640 x 640)"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:215
+msgid "No. of Columns"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:225
+msgid "Enable Lightbox"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:229
+msgid "Enable Caption"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:232
+#: ../api/shortcode/Inc_Image_Shortcode.php:171
+msgid "Caption Type"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:234
+#: ../api/shortcode/Inc_Image_Shortcode.php:173
+msgid "Outer"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:235
+#: ../api/shortcode/Inc_Image_Shortcode.php:174
+msgid "Inner"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:239
+#: ../api/shortcode/Inc_Image_Shortcode.php:182
+msgid "Align"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:243
+#: ../api/shortcode/Inc_Image_Shortcode.php:186
+msgid "Right"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:250
+msgid "Insert Image Gallery"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:251
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:256
+msgid "Add New Image"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:262
+msgid "Image Source"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:264
+#: ../api/shortcode/Inc_Image_Shortcode.php:139
+msgid "Select Image ..."
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:273
+#: ../api/shortcode/Inc_Image_Shortcode.php:178
+msgid "Caption"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:285
+msgid "Add Image to Gallery"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:304
+#: ../api/shortcode/Inc_Image_Shortcode.php:207
+msgid "Media"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:309
+msgid "Image Gallery"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Shortcode.php:137
+msgid "Image Name"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Shortcode.php:159
+msgid "Use Lightbox"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Shortcode.php:162
+msgid "Image URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Shortcode.php:167
+msgid "Image Title"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Shortcode.php:190
+msgid "Insert Image"
+msgstr ""
+
+#: ../api/shortcode/Inc_Image_Shortcode.php:212
+msgid "Image"
+msgstr ""
+
+#: ../api/shortcode/Inc_Infobox_Shortcode.php:76
+msgid "Button URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Infobox_Shortcode.php:80
+msgid "Button Text"
+msgstr ""
+
+#: ../api/shortcode/Inc_Infobox_Shortcode.php:84
+msgid "Button Size"
+msgstr ""
+
+#: ../api/shortcode/Inc_Infobox_Shortcode.php:95
+msgid "Insert Info Box"
+msgstr ""
+
+#: ../api/shortcode/Inc_Infobox_Shortcode.php:110
+msgid "Info Box"
+msgstr ""
+
+#: ../api/shortcode/Inc_Intro_Shortcode.php:91
+msgid "Box"
+msgstr ""
+
+#: ../api/shortcode/Inc_Intro_Shortcode.php:95
+msgid "Body Content"
+msgstr ""
+
+#: ../api/shortcode/Inc_Intro_Shortcode.php:99
+msgid "Footer Content"
+msgstr ""
+
+#: ../api/shortcode/Inc_Intro_Shortcode.php:103
+msgid "Ribbon Image"
+msgstr ""
+
+#: ../api/shortcode/Inc_Intro_Shortcode.php:109
+msgid "Insert Intro Box"
+msgstr ""
+
+#: ../api/shortcode/Inc_Intro_Shortcode.php:124
+msgid "Intro Box"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:14
+msgid "Unordered List"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:15
+msgid "Ordered List"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:22
+msgid "Arrow"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:23
+msgid "Circle"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:24
+msgid "Square"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:25
+msgid "Check"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:26
+msgid "Green Arrow"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:27
+msgid "Green Plus"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:28
+msgid "Green Check"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:35
+msgid "Decimal"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:36
+msgid "Upper Roman"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:37
+msgid "Lower Alpha"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:38
+msgid "Upper Alpha"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:43
+msgid "Items (one item per line)"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:48
+msgid "Insert List"
+msgstr ""
+
+#: ../api/shortcode/Inc_List_Shortcode.php:63
+msgid "List"
+msgstr ""
+
+#: ../api/shortcode/Inc_News_Shortcode.php:128
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:478
+msgid "Posts Count"
+msgstr ""
+
+#: ../api/shortcode/Inc_News_Shortcode.php:132
+msgid "Items per Page"
+msgstr ""
+
+#: ../api/shortcode/Inc_News_Shortcode.php:136
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:474
+msgid "Categories (comma separated list)"
+msgstr ""
+
+#: ../api/shortcode/Inc_News_Shortcode.php:140
+msgid "Insert News"
+msgstr ""
+
+#: ../api/shortcode/Inc_News_Shortcode.php:150
+#: ../api/shortcode/Inc_Notification_Box_Shortcode.php:87
+msgid "Dynamic Elements"
+msgstr ""
+
+#: ../api/shortcode/Inc_News_Shortcode.php:155
+msgid "Recent Blog Posts Carousel (News)"
+msgstr ""
+
+#: ../api/shortcode/Inc_Notification_Box_Shortcode.php:62
+msgid "Info"
+msgstr ""
+
+#: ../api/shortcode/Inc_Notification_Box_Shortcode.php:63
+msgid "Success"
+msgstr ""
+
+#: ../api/shortcode/Inc_Notification_Box_Shortcode.php:64
+msgid "Warning"
+msgstr ""
+
+#: ../api/shortcode/Inc_Notification_Box_Shortcode.php:65
+msgid "Error"
+msgstr ""
+
+#: ../api/shortcode/Inc_Notification_Box_Shortcode.php:70
+msgid "Display the close button"
+msgstr ""
+
+#: ../api/shortcode/Inc_Notification_Box_Shortcode.php:74
+msgid "Display after the page is loaded"
+msgstr ""
+
+#: ../api/shortcode/Inc_Notification_Box_Shortcode.php:77
+msgid "Insert Notification Box"
+msgstr ""
+
+#: ../api/shortcode/Inc_Notification_Box_Shortcode.php:92
+msgid "Notification Box"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:168
+msgid "Filter"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:171
+msgid "All"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:426
+msgid "Post Type"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:428
+msgid "Post"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:434
+msgid "Display Mode"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:436
+msgid "Gallery"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:437
+msgid "Carousel"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:441
+msgid "Display Filter"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:443
+msgid "No"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:444
+msgid "Yes"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:448
+msgid "Filter All Button"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:457
+msgid "Latest Posts"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:458
+msgid "Specific Posts"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:462
+msgid "Columns"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:470
+msgid "IDS"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:482
+msgid "Order By"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:484
+msgid "No order"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:485
+msgid "Order by post id"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:486
+msgid "Order by author"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:487
+msgid "Order by title"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:488
+msgid "Order by post name"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:489
+msgid "Order by date"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:490
+msgid "Order by last modified date"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:491
+msgid "Order by post/page parent id"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:492
+msgid "Random order"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:493
+msgid "Order by number of comments"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:494
+msgid "Order by Page Order"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:495
+msgid "Order by meta value"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:496
+msgid "Order by numeric meta value"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:497
+msgid "Preserve post ID"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:501
+msgid "Order"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:503
+msgid "Descendent"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:504
+msgid "Ascendent"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:508
+msgid "Container Classes"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:512
+msgid "Insert Posts Gallery"
+msgstr ""
+
+#: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:527
+msgid "Posts Gallery"
+msgstr ""
+
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:103
+#: ../api/shortcode/Inc_Table_Shortcode.php:142
+msgid "Table"
+msgstr ""
+
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:110
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:119
+msgid "Two"
+msgstr ""
+
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:111
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:120
+msgid "Three"
+msgstr ""
+
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:112
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:121
+msgid "Four"
+msgstr ""
+
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:116
+msgid "Highlighted Columns"
+msgstr ""
+
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:125
+#: ../api/shortcode/Inc_Table_Shortcode.php:124
+msgid "No. of Rows"
+msgstr ""
+
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:129
+msgid "Rows Separator"
+msgstr ""
+
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:133
+msgid "Insert Pricing Boxes"
+msgstr ""
+
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:143
+#: ../api/shortcode/Inc_Table_Shortcode.php:137
+msgid "Tables"
+msgstr ""
+
+#: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:148
+msgid "Pricing Boxes"
+msgstr ""
+
+#: ../api/shortcode/Inc_Process_Shortcode.php:126
+msgid "One Column"
+msgstr ""
+
+#: ../api/shortcode/Inc_Process_Shortcode.php:128
+msgid "Three Columns"
+msgstr ""
+
+#: ../api/shortcode/Inc_Process_Shortcode.php:133
+msgid "No. of Steps"
+msgstr ""
+
+#: ../api/shortcode/Inc_Process_Shortcode.php:137
+msgid "Insert Process"
+msgstr ""
+
+#: ../api/shortcode/Inc_Process_Shortcode.php:151
+msgid "Process (Outline of Steps)"
+msgstr ""
+
+#: ../api/shortcode/Inc_Shortcode_Manager.php:18
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../api/shortcode/Inc_Site_Map_Shortcode.php:27
+msgid "Pages"
+msgstr ""
+
+#: ../api/shortcode/Inc_Site_Map_Shortcode.php:34
+msgid "Archives by Month"
+msgstr ""
+
+#: ../api/shortcode/Inc_Site_Map_Shortcode.php:49
+#, php-format
+msgid "Latest %d Posts"
+msgstr ""
+
+#: ../api/shortcode/Inc_Site_Map_Shortcode.php:61
+msgid "Archives by Category"
+msgstr ""
+
+#: ../api/shortcode/Inc_Site_Map_Shortcode.php:81
+msgid "Archives by Tag"
+msgstr ""
+
+#: ../api/shortcode/Inc_Site_Map_Shortcode.php:102
+msgid "Archives by Author"
+msgstr ""
+
+#: ../api/shortcode/Inc_Site_Map_Shortcode.php:147
+msgid "Complex (Pages, Blog Archives, Latest Posts)"
+msgstr ""
+
+#: ../api/shortcode/Inc_Site_Map_Shortcode.php:148
+msgid "Simple (Pages)"
+msgstr ""
+
+#: ../api/shortcode/Inc_Site_Map_Shortcode.php:152
+msgid "Insert Site-Map"
+msgstr ""
+
+#: ../api/shortcode/Inc_Site_Map_Shortcode.php:167
+msgid "Site Map"
+msgstr ""
+
+#: ../api/shortcode/Inc_Slider_Shortcode.php:152
+msgid "Animation Speed"
+msgstr ""
+
+#: ../api/shortcode/Inc_Slider_Shortcode.php:157
+msgid "Enable Slideshow"
+msgstr ""
+
+#: ../api/shortcode/Inc_Slider_Shortcode.php:160
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../api/shortcode/Inc_Slider_Shortcode.php:170
+#: ../api/shortcode/Inc_Slider_Shortcode.php:175
+msgid "Add New Slide"
+msgstr ""
+
+#: ../api/shortcode/Inc_Slider_Shortcode.php:181
+msgid "Slide Type"
+msgstr ""
+
+#: ../api/shortcode/Inc_Slider_Shortcode.php:184
+#: ../api/shortcode/Inc_Video_Shortcode.php:56
+msgid "Video"
+msgstr ""
+
+#: ../api/shortcode/Inc_Slider_Shortcode.php:203
+#: ../api/shortcode/Inc_Video_Shortcode.php:38
+msgid "Embedded Video"
+msgstr ""
+
+#: ../api/shortcode/Inc_Slider_Shortcode.php:207
+msgid "Add Slide"
+msgstr ""
+
+#: ../api/shortcode/Inc_Slider_Shortcode.php:231
+msgid "Media Slider"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:80
+msgid "Mail"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:100
+msgid "Class"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:104
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:82
+msgid "Twitter URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:108
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:86
+msgid "Facebook URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:112
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:90
+msgid "Google+ URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:116
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:94
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:120
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:98
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:124
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:102
+msgid "YouTube URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:128
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:106
+msgid "Skype URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:132
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:110
+msgid "Digg URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:136
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:114
+msgid "Delicious URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:140
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:118
+msgid "Tumbler URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:144
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:122
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:148
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:126
+msgid "StumbleUpon URL"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:152
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:78
+msgid "Mail Address"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:156
+msgid "Insert Social Icons"
+msgstr ""
+
+#: ../api/shortcode/Inc_Social_Icons_Shortcode.php:170
+msgid "Social Icons"
+msgstr ""
+
+#: ../api/shortcode/Inc_Table_Shortcode.php:112
+msgid "Footer Text"
+msgstr ""
+
+#: ../api/shortcode/Inc_Table_Shortcode.php:128
+msgid "Insert Table"
+msgstr ""
+
+#: ../api/shortcode/Inc_Tabs_Shortcode.php:67
+msgid "Insert Tabs"
+msgstr ""
+
+#: ../api/shortcode/Inc_Tabs_Shortcode.php:81
+msgid "Tabs"
+msgstr ""
+
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:55
+msgid "Photo"
+msgstr ""
+
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:70
+msgid "Job Title"
+msgstr ""
+
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:130
+msgid "Insert Team Member"
+msgstr ""
+
+#: ../api/shortcode/Inc_Team_Member_Shortcode.php:152
+msgid "Team Member"
+msgstr ""
+
+#: ../api/shortcode/Inc_Testimonials_Carousel.php:61
+msgid "Insert the page ID which contains the testimonials"
+msgstr ""
+
+#: ../api/shortcode/Inc_Testimonials_Carousel.php:63
+msgid "Post ID"
+msgstr ""
+
+#: ../api/shortcode/Inc_Testimonials_Carousel.php:67
+msgid "No. of Testimonials"
+msgstr ""
+
+#: ../api/shortcode/Inc_Testimonials_Carousel.php:71
+msgid "Insert Testimonials Carousel"
+msgstr ""
+
+#: ../api/shortcode/Inc_Testimonials_Carousel.php:86
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: ../api/shortcode/Inc_Toggles_Shortcode.php:90
+msgid "Default"
+msgstr ""
+
+#: ../api/shortcode/Inc_Toggles_Shortcode.php:91
+msgid "Accordion"
+msgstr ""
+
+#: ../api/shortcode/Inc_Toggles_Shortcode.php:95
+msgid "Insert Toggles"
+msgstr ""
+
+#: ../api/shortcode/Inc_Toggles_Shortcode.php:109
+msgid "Toggles"
+msgstr ""
+
+#: ../api/shortcode/Inc_Video_Shortcode.php:42
+msgid "Insert Video"
+msgstr ""
+
+#: ../api/util/Email_Util.php:8
+#: ../api/util/Email_Util.php:25
+msgid "New email from"
+msgstr ""
+
+#: ../api/util/Email_Util.php:18
+msgid "Error sending the email."
+msgstr ""
+
+#: ../api/util/Email_Util.php:36
+msgid "Error sending the email. Please check the server log for more details."
+msgstr ""
+
+#: ../api/util/Email_Util.php:43
+msgid "The field"
+msgstr ""
+
+#: ../api/util/Email_Util.php:43
+msgid "is empty."
+msgstr ""
+
+#: ../api/util/Email_Util.php:50
+msgid "Invalid email address"
+msgstr ""
+
+#: ../api/util/Page_Contact_Manager.php:24
+msgid "Edit Contact"
+msgstr ""
+
+#: ../api/util/Page_Contact_Manager.php:65
+msgid "Display Google map"
+msgstr ""
+
+#: ../api/util/Page_Contact_Manager.php:70
+msgid "Localization Type"
+msgstr ""
+
+#: ../api/util/Page_Contact_Manager.php:72
+msgid "By Address"
+msgstr ""
+
+#: ../api/util/Page_Contact_Manager.php:73
+msgid "By Coordinates"
+msgstr ""
+
+#: ../api/util/Page_Contact_Manager.php:78
+#: ../api/widget/Inc_Contact_Details_Widget.php:27
+#: ../api/widget/Inc_Contact_Details_Widget.php:71
+msgid "Address"
+msgstr ""
+
+#: ../api/util/Page_Contact_Manager.php:80
+msgid "Change Address"
+msgstr ""
+
+#: ../api/util/Page_Contact_Manager.php:83
+msgid "Latitude"
+msgstr ""
+
+#: ../api/util/Page_Contact_Manager.php:87
+msgid "Longitude"
+msgstr ""
+
+#: ../api/util/Page_Contact_Manager.php:92
+msgid "Map zoom"
+msgstr ""
+
+#: ../api/util/Page_Contact_Manager.php:96
+msgid "Map height (px)"
+msgstr ""
+
+#: ../api/util/Page_Media_Manager.php:33
+msgid "Edit Video"
+msgstr ""
+
+#: ../api/util/Page_Media_Manager.php:66
+msgid "Slider Type"
+msgstr ""
+
+#: ../api/util/Page_Media_Manager.php:77
+msgid "Slider Layout"
+msgstr ""
+
+#: ../api/util/Page_Media_Manager.php:79
+msgid "Wide"
+msgstr ""
+
+#: ../api/util/Page_Media_Manager.php:80
+msgid "Boxed"
+msgstr ""
+
+#: ../api/util/Page_Media_Manager.php:85
+msgid "Slider ID"
+msgstr ""
+
+#: ../api/util/Page_Media_Manager.php:140
+msgid "Video ID"
+msgstr ""
+
+#: ../api/util/Page_Media_Manager.php:144
+msgid "Video Content"
+msgstr ""
+
+#: ../api/util/Page_Media_Manager.php:149
+msgid "Video Thumbnail"
+msgstr ""
+
+#: ../api/util/Posts_Overview_Manager.php:24
+msgid "Configure"
+msgstr ""
+
+#: ../api/util/Posts_Overview_Manager.php:61
+msgid "Thumbnail Click Action"
+msgstr ""
+
+#: ../api/util/Posts_Overview_Manager.php:63
+msgid "Open the Lightbox Gallery"
+msgstr ""
+
+#: ../api/util/Posts_Overview_Manager.php:64
+msgid "Open the Associated Post"
+msgstr ""
+
+#: ../api/util/Posts_Overview_Manager.php:68
+msgid "No. of Items (-1 for all)"
+msgstr ""
+
+#: ../api/util/Posts_Overview_Manager.php:70
+msgid "When pagination is used, this field represents the number of items per page. Use -1 for the default value."
+msgstr ""
+
+#: ../api/util/Posts_Overview_Manager.php:73
+msgid "Categories (comma separated slugs)"
+msgstr ""
+
+#: ../api/util/Posts_Overview_Manager.php:77
+msgid "All Filter Button"
+msgstr ""
+
+#: ../api/widget/Inc_Archives_Widget.php:15
+msgid "Archives"
+msgstr ""
+
+#: ../api/widget/Inc_Archives_Widget.php:24
+msgid "Select Month"
+msgstr ""
+
+#: ../api/widget/Inc_Categories_Widget.php:27
+msgid "Select Category"
+msgstr ""
+
+#: ../api/widget/Inc_Contact_Details_Widget.php:8
+msgid "A simple widget which allows you to edit your contact details."
+msgstr ""
+
+#: ../api/widget/Inc_Contact_Details_Widget.php:9
+#: ../api/widget/Inc_Contact_Details_Widget.php:61
+msgid "Contact Info"
+msgstr ""
+
+#: ../api/widget/Inc_Contact_Details_Widget.php:29
+msgid "Phone"
+msgstr ""
+
+#: ../api/widget/Inc_Contact_Details_Widget.php:32
+msgid "Fax"
+msgstr ""
+
+#: ../api/widget/Inc_Contact_Details_Widget.php:38
+msgid "Business Hours"
+msgstr ""
+
+#: ../api/widget/Inc_Contact_Details_Widget.php:72
+msgid "Phone Number"
+msgstr ""
+
+#: ../api/widget/Inc_Contact_Details_Widget.php:73
+msgid "Fax Number"
+msgstr ""
+
+#: ../api/widget/Inc_Contact_Details_Widget.php:74
+msgid "Email Address"
+msgstr ""
+
+#: ../api/widget/Inc_Contact_Details_Widget.php:75
+msgid "Timetable"
+msgstr ""
+
+#: ../api/widget/Inc_Flickr_Widget.php:8
+msgid "Displays the latest pictures from a Flickr account."
+msgstr ""
+
+#: ../api/widget/Inc_Flickr_Widget.php:9
+msgid "Flickr Photostream"
+msgstr ""
+
+#: ../api/widget/Inc_Flickr_Widget.php:50
+msgid "The number of pictures"
+msgstr ""
+
+#: ../api/widget/Inc_Latest_Tweets_Widget.php:9
+msgid "A simple widget which displays your latest tweets."
+msgstr ""
+
+#: ../api/widget/Inc_Latest_Tweets_Widget.php:10
+msgid "Display Latest Tweets"
+msgstr ""
+
+#: ../api/widget/Inc_Latest_Tweets_Widget.php:46
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../api/widget/Inc_Latest_Tweets_Widget.php:50
+msgid "Username"
+msgstr ""
+
+#: ../api/widget/Inc_Latest_Tweets_Widget.php:51
+msgid "Change"
+msgstr ""
+
+#: ../api/widget/Inc_Latest_Tweets_Widget.php:55
+msgid "Number of tweets(max 20)"
+msgstr ""
+
+#: ../api/widget/Inc_Meta_Widget.php:12
+msgid "Meta"
+msgstr ""
+
+#: ../api/widget/Inc_Meta_Widget.php:21
+msgid "Syndicate this site using RSS 2.0"
+msgstr ""
+
+#: ../api/widget/Inc_Meta_Widget.php:21
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: ../api/widget/Inc_Meta_Widget.php:22
+msgid "The latest comments to all posts in RSS"
+msgstr ""
+
+#: ../api/widget/Inc_Meta_Widget.php:22
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#: ../api/widget/Inc_Meta_Widget.php:23
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: ../api/widget/Inc_Most_Used_Tags_Widget.php:8
+msgid "Your most used tags"
+msgstr ""
+
+#: ../api/widget/Inc_Most_Used_Tags_Widget.php:9
+msgid "Most Used Tags"
+msgstr ""
+
+#: ../api/widget/Inc_Most_Used_Tags_Widget.php:55
+msgid "Number of Tags"
+msgstr ""
+
+#: ../api/widget/Inc_Newsletter_Subscription_Widget.php:8
+msgid "MailChimp Newsletter Subscription"
+msgstr ""
+
+#: ../api/widget/Inc_Newsletter_Subscription_Widget.php:9
+msgid "Newsletter Subscription"
+msgstr ""
+
+#: ../api/widget/Inc_Newsletter_Subscription_Widget.php:31
+msgid "You have successfully subscribed to our newsletter. Look for the confirmation email."
+msgstr ""
+
+#: ../api/widget/Inc_Newsletter_Subscription_Widget.php:35
+msgid "Enter your email address"
+msgstr ""
+
+#: ../api/widget/Inc_Newsletter_Subscription_Widget.php:36
+msgid "Subscribe"
+msgstr ""
+
+#: ../api/widget/Inc_Newsletter_Subscription_Widget.php:66
+msgid "Newsletter"
+msgstr ""
+
+#: ../api/widget/Inc_Newsletter_Subscription_Widget.php:73
+msgid "Intro Text"
+msgstr ""
+
+#: ../api/widget/Inc_Newsletter_Subscription_Widget.php:74
+msgid "List ID"
+msgstr ""
+
+#: ../api/widget/Inc_Recent_Comments_Widget.php:28
+msgid "Recent Comments"
+msgstr ""
+
+#: ../api/widget/Inc_Recent_Comments_Widget.php:45
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../api/widget/Inc_Recent_Posts_Widget.php:27
+msgid "Recent Posts"
+msgstr ""
+
