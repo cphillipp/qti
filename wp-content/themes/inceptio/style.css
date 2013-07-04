@@ -2497,3 +2497,5 @@ input[type="submit"] {
 
 /* CUSTOM */
 #logo 		{margin-top:9px;}
+.widget ul.menu li > a, .widget ul.menu li > a > * {color: #4c6192;}
+.widget ul.menu li {border-bottom: 0px solid #e5e5e5;}
